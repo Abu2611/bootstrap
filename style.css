@@ -422,6 +422,47 @@ ul {
     margin-right: 0;
     margin: left 0;;
 }
+.btn-outline-success {
+    color: #198754;
+    border-color: #198754;
+    margin-left: 70px;
+    padding: 0px 66px 0px 0px
+}
+.btn-outline-success {
+    color: #198754;
+    border-color: #198754;
+    padding: 0px 35px 0px 35px;
+}   
+.btn-outline-success {
+    
+    margin-right: 73px;
+}
+.footer {
+  
+    background-color: b;
+    color: #fff;
+    
+}
+.section1 .row {
+    background: silver;
+   
+}
+.header .ul {
+    padding-left: 4rem;
+    padding-top: 15px;
+    font-size: 16px;
+    width: 100%;
+    margin-left: 7px;
+}
+.footer ul {
+    padding-left: 4rem;
+    padding-top: 15px;
+    font-size: 16px;
+    width: 100%;
+    margin-left: 10px;
+    
+}
+
     
     
     
