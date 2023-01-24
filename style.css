@@ -517,7 +517,7 @@ ul {
         font-size: 21px;
     }
     .welcome h1 {
-        width: 180%;
+        /* width: 180%; */
         /* text-decoration: underline; */
         margin-left: 111px;
         display: table-caption;
