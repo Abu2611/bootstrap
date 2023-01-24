@@ -478,6 +478,14 @@ ul {
     margin-left: 47px;
     font-size: 21px;
 }
+.welcome h1 {
+    width: 180%;
+    /* text-decoration: underline; */
+    margin-left: 111px;
+    display: table-caption;
+    margin-left: 59px;
+    font-size: 22px;
+}
 
     
     
@@ -507,6 +515,14 @@ ul {
         display: table-caption;
         margin-left: 47px;
         font-size: 21px;
+    }
+    .welcome h1 {
+        width: 180%;
+        /* text-decoration: underline; */
+        margin-left: 111px;
+        display: table-caption;
+        margin-left: 59px;
+        font-size: 22px;
     }
 
 
