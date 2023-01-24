@@ -492,7 +492,7 @@ ul {
     
 
 }
-@media (max-width:30px) {
+@media (max-width:300px) {
     .footer {
         display: flex;
         background-color: #212529;
