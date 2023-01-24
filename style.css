@@ -462,6 +462,14 @@ ul {
     margin-left: 10px;
     
 }
+.welcome h1 {
+    width: 179%;
+    /* text-decoration: underline; */
+    margin-left: 111px;
+    display: table-caption;
+    margin-left: 47px;
+    font-size: 21px;
+}
 
     
     
