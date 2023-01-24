@@ -476,3 +476,22 @@ ul {
     
 
 }
+@media (max-width:30px) {
+    .footer {
+        display: flex;
+        background-color: #212529;
+        color: #fff;
+        justify-content: space-between;
+        /* flex-wrap: wrap; */
+        width: 108%;
+    }
+    .footer ul {
+        padding-left: 4rem;
+        padding-top: 15px;
+        font-size: 14px;
+        width: 100%;
+        margin-left: 10px;
+    }
+
+
+}
